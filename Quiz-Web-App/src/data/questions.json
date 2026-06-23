@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "questions":"React is amainly used for?",
+        "options":[
+            "stylings",
+            "mobile app",
+            "biulding ui",
+            "none"
+        ],
+        "answer":"biulding ui"
+    },
+     {
+        "id":2,
+        "questions":"Whisch Hook is used for state?",
+        "options":[
+            "useState",
+            "useContext",
+            "useMeme",
+            "useEffect"
+        ],
+        "answer":"useState"
+    }
+]
